@@ -9,7 +9,7 @@
         <AiFillPhone id="phone-icon" />
         <div>
           <h3>Telefone</h3>
-          <p>(41)98497-0824</p>
+          <p>(41) 98497-0824</p>
         </div>
       </div>
       <div className="info-card">
