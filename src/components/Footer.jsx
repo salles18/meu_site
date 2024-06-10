@@ -7,6 +7,7 @@ const Footer = () => {
     <footer>
       <div className="footer-content">
         <p>&copy; 2024 João Vitor Salles</p>
+        <p>Todos os Direitos Reservados.</p>
       </div>
     </footer>
   );
